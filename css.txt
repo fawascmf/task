@@ -1,0 +1,19 @@
+<!DOCTYPE>
+<html>
+<head>
+<style>
+h1{
+    color: white;
+ background-color: red;
+ padding: 5px;
+}
+p{
+    color: blue;
+}
+</style>
+</head>
+<body>
+<h1>write your first css example</h1>
+<p>this is paragraph.</p>
+</body>
+</html>
